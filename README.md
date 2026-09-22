@@ -1,0 +1,1 @@
+# tiroid_evre_tahmin
